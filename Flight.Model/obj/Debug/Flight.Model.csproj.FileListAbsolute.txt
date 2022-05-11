@@ -1,0 +1,6 @@
+C:\Users\ZION\Desktop\TzioNet\Tzion project flight system\Flight.Model\bin\Debug\Flight.Model.dll
+C:\Users\ZION\Desktop\TzioNet\Tzion project flight system\Flight.Model\bin\Debug\Flight.Model.pdb
+C:\Users\ZION\Desktop\TzioNet\Tzion project flight system\Flight.Model\obj\Debug\Flight.Model.csprojAssemblyReference.cache
+C:\Users\ZION\Desktop\TzioNet\Tzion project flight system\Flight.Model\obj\Debug\Flight.Model.csproj.CoreCompileInputs.cache
+C:\Users\ZION\Desktop\TzioNet\Tzion project flight system\Flight.Model\obj\Debug\Flight.Model.dll
+C:\Users\ZION\Desktop\TzioNet\Tzion project flight system\Flight.Model\obj\Debug\Flight.Model.pdb
